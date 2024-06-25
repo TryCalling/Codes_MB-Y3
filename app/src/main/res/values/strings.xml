@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="name_neang_sroytry">Neang SroyTry</string>
+    <string name="it_engineering_generation_7">IT Engineering - Generation 7</string>
+
+    <string name="year1">Year 1</string>
+    <string name="year2">Year 2</string>
+    <string name="year3">Year 3</string>
+    <string name="year4">Year 4</string>
+
+    <string name="semester1">Semester 1</string>
+    <string name="semester2">Semester 2</string>
+    <string name="subject">Subject</string>
+    <string name="credit">Credit</string>
+    <string name="web_and_could_technologies_II">Web and could Technologies II</string>
+    <string name="computer_graphics">Computer Graphics</string>
+    <string name="software_engineering">Software Engineering</string>
+    <string name="mobile_application_development_I">Mobile Application Development I</string>
+    <string name="network_engineering_II">Network Engineering II</string>
+    <string name="number3">3</string>
+
+</resources>
